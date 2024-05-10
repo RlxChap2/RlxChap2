@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://mrhrs.xyz/](https://mrhrs.xyz/)
 
-- 💬 Ask me about **JS, Ejs, Html, Css, Json, JSX, TypeScript**
+- 💬 Ask me about **Programming Language**
 
 - 📫 How to reach me **https://discord.gg/6CuMuv5Yzg**
 
