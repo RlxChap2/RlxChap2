@@ -126,3 +126,4 @@
 	<img src="https://lanyard.cnrad.dev/api/1105670596525834250"/>
 	<img src="https://github-readme-stats.vercel.app/api?username=RlxChap2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RlxChap2&layout=compact&theme=tokyonight"/>
+ </p>
