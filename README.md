@@ -15,3 +15,4 @@
 
 - 👯 I’m looking to collaborate on [rxl-rest](https://github.com/RlxChap2/rxl)
 
+- 🤝 I’m looking for help with [rxl-rest](https://github.com/RlxChap2/rxl)
