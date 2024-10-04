@@ -150,3 +150,4 @@ For a curated list of resources on learning programming, problem-solving, and al
 <img align="right" alt="Coding" width="250" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlxchap2&label=Profile%20views&color=0e75b6&style=flat" alt="rlxchap2" /> </p>
+
