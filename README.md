@@ -123,3 +123,4 @@
 <div align="center">
 
  <p align="center">
+	<img src="https://lanyard.cnrad.dev/api/1105670596525834250"/>
