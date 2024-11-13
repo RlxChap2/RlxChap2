@@ -139,3 +139,4 @@
 # 📘 Learning Resources
 For a curated list of resources on learning programming, problem-solving, and algorithms, check out [LEARNING.md](LEARNING.md).
 
+<div align="center"><p>
