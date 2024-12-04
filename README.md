@@ -114,7 +114,7 @@
 
 <p align="left">
   <a href="https://instagram.com/vbii3i" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vbii3i" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/mr_hrs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr_hrs" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@Mr_HrS" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr_hrs" height="30" width="40" /></a>
   <a href="https://discord.gg/6CuMuv5Yzg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6CuMuv5Yzg" height="30" width="40" /></a>
 </p>
 
