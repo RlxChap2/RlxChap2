@@ -19,3 +19,4 @@
 
 - 👨‍💻 All of my projects are available at [https://mrhrs.xyz/store](https://mrhrs.xyz/store)
 
+- 📝 I regularly write articles on [https://mrhrs.xyz/](https://mrhrs.xyz/)
