@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm @RlxChap2</h1>
 <h3 align="center">A passionate Full-stack developer from Egypt!</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlxchap2" alt="rlxchap2" /></a> </p>
 <img align="right" alt="Coding" width="250" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlxchap2&label=Profile%20views&color=0e75b6&style=flat" alt="rlxchap2" /> </p>
@@ -129,6 +128,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RlxChap2&layout=compact&theme=tokyonight"/>
  </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlxchap2" alt="rlxchap2" /></a> </p>
 </div>
 
 # 📘 Learning Resources
