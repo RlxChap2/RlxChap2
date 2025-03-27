@@ -127,8 +127,12 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=RlxChap2&show_icons=true&theme=tokyonight&count_private=true"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RlxChap2&layout=compact&theme=tokyonight"/>
  </p>
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlxchap2" alt="rlxchap2" /></a> </p>
+<h2 align="center">🏆 Github Achievement / Trophies:</h2>
+
+<div algin="center">
+	<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlxchap2" alt="rlxchap2" /></a> </p>
 </div>
 
 # 📘 Learning Resources
