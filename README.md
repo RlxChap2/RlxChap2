@@ -11,3 +11,4 @@
 
 - 🔭 I’m currently working on [HrS Store](https://mrhrs.xyz/store)
 
+- 🌱 I’m currently learning **To make a new programming language**
