@@ -132,3 +132,4 @@
 <h2 align="center">🏆 Github Achievement / Trophies:</h2>
 
 <div algin="center">
+	<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlxchap2&theme=nord" alt="rlxchap2" /></a> </p>
