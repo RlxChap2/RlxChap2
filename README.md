@@ -134,3 +134,4 @@
 <div algin="center">
 	<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlxchap2&theme=nord" alt="rlxchap2" /></a> </p>
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=RlxChap2&theme=nord"/>
+</div>
