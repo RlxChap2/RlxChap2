@@ -139,9 +139,3 @@
 # 📘 Learning Resources
 
 For a curated list of resources on learning programming, problem-solving, and algorithms, check out [LEARNING.md](LEARNING.md).
-
-<div align="center"><p>
-<div align="center"><p>
-		<a href="https://github.com/RlxChap2/"><img src="./bg.png" width="330" alt="banner" /></a>
-	</p>
-</div>
