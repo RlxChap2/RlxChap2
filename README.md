@@ -9,21 +9,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlxchap2&label=Profile%20views&color=0e75b6&style=flat" alt="rlxchap2" /> </p>
 
-- 🔭 I’m currently working on [HrS Store](https://mrhrs.xyz/store)
-
-- 🌱 I’m currently learning **To make a new programming language**
-
-- 👯 I’m looking to collaborate on [rxl-rest](https://github.com/RlxChap2/rxl)
-
-- 🤝 I’m looking for help with [rxl-rest](https://github.com/RlxChap2/rxl)
-
-- 👨‍💻 All of my projects are available at [https://mrhrs.xyz/store](https://mrhrs.xyz/store)
-
-- 📝 I regularly write articles on [https://mrhrs.xyz/](https://mrhrs.xyz/)
-
-- 💬 Ask me about **Programming Language**
-
-- 📫 How to reach me **https://discord.gg/6CuMuv5Yzg**
+* 🔭 I’m currently focused on developing **RXL (Reactive Extensions Language)** — a modern programming language with powerful reactive capabilities.
+* 🌱 Continuously exploring compiler design, language runtime, and low-level optimizations to push RXL forward.
+* 👯 Open to collaborate on cutting-edge programming language tools, interpreters, and related projects.
+* 🤝 Looking for feedback, contributions, and insights to help improve RXL and its ecosystem.
+* 👨‍💻 Explore all my projects, including utilities, compilers, and libraries at [https://github.com/RlxChap2](https://github.com/RlxChap2)
+* 📝 I create technical tutorials and share deep dives about language design and system programming on my YouTube channel: [Mr\_HrS](https://www.youtube.com/@Mr_HrS)
+* 💬 Feel free to ask me anything about compiler construction, language design, or advanced programming concepts.
+* 📫 Connect with me on Discord: **[https://discord.gg/6CuMuv5Yzg](https://discord.gg/6CuMuv5Yzg)**
 
 <h3 align="left">Languages:</h3>
 
