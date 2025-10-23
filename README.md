@@ -32,7 +32,7 @@
 ### 💻 **Programming Languages**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,c,cpp,cs,java,swift,kotlin,php,ruby,lua,bash,perl" height="60" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,cs,java,swift,kotlin,php,ruby,lua,bash,perl" height="60" />
 </div>
 
 ---
@@ -40,7 +40,7 @@
 ### ⚙️ **Frameworks & Libraries**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,nestjs,express,nodejs,tailwind,bootstrap,flutter,graphql,pytorch,opencv" height="60" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vuejs,tailwind,bootstrap,flutter,pytorch,opencv,electron" height="60" />
 </div>
 
 ---
@@ -48,7 +48,7 @@
 ### 🗄️ **Databases & DevOps**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,docker,nginx,aws,azure,heroku" height="60" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,aws,azure,heroku,nginx" height="60" />
 </div>
 
 ---
@@ -56,7 +56,7 @@
 ### 🧰 **Tools & IDEs**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,git,github,figma,photoshop,heroku,notion,vscode,visualstudio,pycharm,codepen" height="60" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,photoshop,notion,vscode,visualstudio,pycharm,codepen" height="60" />
 </div>
 
 ---
@@ -64,7 +64,7 @@
 ### 🧠 **Other Technologies**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,debian,webpack,nodejs,discordjs,electron,nginx,opencv,numpy" height="60" />
+  <img src="https://skillicons.dev/icons?i=debian,webpack" height="60" />
 </div>
 
 ---
