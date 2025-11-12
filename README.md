@@ -81,7 +81,7 @@
   <a href="https://www.youtube.com/@Mr_HrS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="https://www.hackerrank.com/profile/mmah02778" target="_blank">
+  <a href="https://www.hackerrank.com/profile/0xM7md" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="https://discord.gg/6CuMuv5Yzg" target="_blank">
