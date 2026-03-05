@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/RlxChap2/">
-    <img src="./bg.png" width="330" alt="banner" />
+    <img src="./assets/bg.png" width="330" alt="banner" />
   </a>
 </div>
 
