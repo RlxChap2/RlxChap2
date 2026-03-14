@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Hi, I'm Mohammed</h1>
-  <h3>Senior Software Developer | Systems & Compiler Engineer | Author</h3>
+  <h3>Full-Stack Developer | Systems & Compiler Engineer | Author</h3>
   
   <p>
     <a href="https://komarev.com/ghpvc/?username=rlxchap2&label=Profile%20views&color=2aa198&style=flat">
