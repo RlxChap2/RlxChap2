@@ -41,9 +41,9 @@ This is an evidence-first profile: what I built, what it proves, what is still i
 | Project | Why it matters | Stack |
 | --- | --- | --- |
 | [MASC-256](https://github.com/RlxChap2/MASC-256) | Experimental stream-cipher design in C. Built to study state evolution, memory-dependent transformations, rotations, XOR operations, and responsible crypto documentation. Not intended for production cryptography. | C, CMake |
-| [Etha3a API](https://github.com/RlxChap2/Etha3a-API) | A structured Fastify API with tests, OpenAPI docs, Docker support, changelog, roadmap, contributing docs, security policy, and source fallback handling. | TypeScript, Node.js, Fastify |
+| [Bonyan API](https://github.com/BonyanOSS/Bonyan-API) | A structured Fastify API with tests, OpenAPI docs, Docker support, changelog, roadmap, contributing docs, security policy, and source fallback handling. | TypeScript, Node.js, Fastify |
 | [IPInspectorZ](https://github.com/RlxChap2/IPInspectorZ) | Desktop network and device diagnostics app designed around no login, no telemetry, and no file scanning. | TypeScript, Tauri, Rust |
-| [CyberTools](https://github.com/RlxChap2/CyberTools) | Client-side cybersecurity utilities with privacy notes, roadmap, security policy, and no backend data collection. | JavaScript, HTML, CSS |
+| [CyberTools](https://github.com/ctlib/CyberTools) | Client-side cybersecurity utilities with privacy notes, roadmap, security policy, and no backend data collection. | JavaScript, HTML, CSS |
 | [Quiz Master](https://github.com/RlxChap2/quiz-master) | Educational platform for organizing quizzes, video lectures, and learning materials. | TypeScript, Node.js, Tailwind CSS |
 | [cf-practice-archive](https://github.com/RlxChap2/cf-practice-archive) | Personal archive for algorithm practice and problem-solving consistency. | C++ |
 
