@@ -1,0 +1,37 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="28" fill="#0D1117"/>
+  <path d="M0 300H1200" stroke="#1F6FEB" stroke-opacity="0.28"/>
+  <path d="M0 60H1200" stroke="#2EA043" stroke-opacity="0.16"/>
+  <g opacity="0.16">
+    <path d="M80 0V360" stroke="#8B949E"/>
+    <path d="M240 0V360" stroke="#8B949E"/>
+    <path d="M400 0V360" stroke="#8B949E"/>
+    <path d="M560 0V360" stroke="#8B949E"/>
+    <path d="M720 0V360" stroke="#8B949E"/>
+    <path d="M880 0V360" stroke="#8B949E"/>
+    <path d="M1040 0V360" stroke="#8B949E"/>
+    <path d="M0 120H1200" stroke="#8B949E"/>
+    <path d="M0 240H1200" stroke="#8B949E"/>
+  </g>
+  <circle cx="1010" cy="86" r="132" fill="#1F6FEB" fill-opacity="0.22"/>
+  <circle cx="1038" cy="276" r="170" fill="#2EA043" fill-opacity="0.12"/>
+  <circle cx="214" cy="292" r="150" fill="#8957E5" fill-opacity="0.12"/>
+  <path d="M96 94H262L304 136L262 178H96L54 136L96 94Z" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+  <path d="M110 136L134 112H164L140 136L164 160H134L110 136Z" fill="#58A6FF"/>
+  <path d="M190 112H220L196 136L220 160H190L166 136L190 112Z" fill="#3FB950"/>
+  <text x="350" y="128" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="1">
+    Mohammed Mahmoud
+  </text>
+  <text x="352" y="178" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">
+    Backend systems | Security tooling | Applied cryptography
+  </text>
+  <text x="352" y="228" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500">
+    Building public, inspectable software with Node.js, TypeScript, C/C++, and Python.
+  </text>
+  <rect x="352" y="262" width="148" height="38" rx="19" fill="#1F6FEB" fill-opacity="0.18" stroke="#1F6FEB" stroke-opacity="0.45"/>
+  <text x="376" y="287" fill="#79C0FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Open Source</text>
+  <rect x="520" y="262" width="146" height="38" rx="19" fill="#2EA043" fill-opacity="0.16" stroke="#2EA043" stroke-opacity="0.45"/>
+  <text x="562" y="286" fill="#7EE787" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Security</text>
+  <rect x="686" y="262" width="176" height="38" rx="19" fill="#8957E5" fill-opacity="0.16" stroke="#8957E5" stroke-opacity="0.45"/>
+  <text x="710" y="287" fill="#D2A8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Systems Thinking</text>
+</svg>
