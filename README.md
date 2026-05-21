@@ -55,7 +55,7 @@ This is an evidence-first profile: what I built, what it proves, what is still i
 | --- | --- | --- |
 | [Express.js](https://github.com/expressjs/express/pull/7050) | Improving test coverage for `res.set()` edge cases | Pull request open |
 | [webpack.js.org](https://github.com/webpack/webpack.js.org/pull/8252) | Arabic documentation contribution | Pull request open |
-| Node.js ecosystem | Reading project guidelines, following maintainer workflow, and looking for small reviewable contributions | Ongoing |
+| [Node.js Translator](https://crowdin.com/project/nodejs-web/activity-stream) | Arabic locales Contribution | Ongoing |
 
 ---
 
