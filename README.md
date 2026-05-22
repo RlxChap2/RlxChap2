@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Mohammed Mahmoud - backend systems, security tooling, and applied cryptography" />
-</p>
-
 ### Hi there
 
 I'm Mohammed Mahmoud, a software engineering student in Egypt building public, inspectable work around backend systems, security tooling, and applied cryptography.
