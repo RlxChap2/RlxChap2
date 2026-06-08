@@ -4,7 +4,7 @@ I'm Mohammed Mahmoud, a software engineering student in Egypt building public, i
 
 This is an evidence-first profile: what I built, what it proves, what is still in progress, and where I am heading next.
 
-[Portfolio](https://rlxchap2.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/mohammed-mahmouds) | [Email](mailto:rlxchap2@outlook.com) | [X](https://x.com/0xR1A7)
+[Portfolio](https://rlxchap2.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/mohammed-mahmouds) | [Email](mailto:rlxchap2@outlook.com) | [X](https://x.com/0xR1A7) | [Crowdin](https://crowdin.com/profile/rlxchap2)
 
 ---
 
@@ -110,3 +110,4 @@ This is an evidence-first profile: what I built, what it proves, what is still i
 | LinkedIn | [mohammed-mahmouds](https://www.linkedin.com/in/mohammed-mahmouds) |
 | Portfolio | [rlxchap2.github.io/portfolio](https://rlxchap2.github.io/portfolio/) |
 | GitHub | [RlxChap2](https://github.com/RlxChap2) |
+| Crowdin | [RlxChap2](https://crowdin.com/profile/rlxchap2) |
