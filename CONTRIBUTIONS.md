@@ -4,7 +4,7 @@ This page lists public contribution proof.
 
 ## Snapshot
 
-As of June 18, 2026, GitHub search found 100+ authored pull requests by `RlxChap2`, including 90+ merged PRs and several active upstream PRs.
+As of June 18, 2026, GitHub search found 100+ authored pull requests by `@RlxChap2` (me), including 90+ merged PRs and several active upstream PRs.
 
 ## Upstream Highlights
 
