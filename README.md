@@ -81,3 +81,5 @@ I contribute in the places where I am already learning or building:
 ## How To Contact With Me?
 
 If you want to talk about backend systems, open source, Arabic localization, Discord tooling, security utilities, or sponsorship, the fastest path is [email](mailto:rlxchap2@outlook.com) or [LinkedIn](https://www.linkedin.com/in/mohammed-mahmouds).
+
+and this is a [LEARNING](./LEARNING.md) Resources if you are interested.

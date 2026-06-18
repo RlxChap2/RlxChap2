@@ -1,6 +1,6 @@
 # Open-Source Contributions
 
-This page lists public contribution proof that should be easier to inspect than a long profile README.
+This page lists public contribution proof.
 
 ## Snapshot
 

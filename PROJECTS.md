@@ -1,6 +1,6 @@
 # Projects
 
-This page keeps the profile README short while giving reviewers a clearer map of the work.
+This page keeps giving a clearer map of the work.
 
 ## Main Projects
 
