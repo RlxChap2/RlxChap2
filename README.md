@@ -1,113 +1,83 @@
-### Hi there
+<h1 align="center">Mohammed Mahmoud</h1>
 
-I'm Mohammed Mahmoud, a software engineering student in Egypt building public, inspectable work around backend systems, security tooling, and applied cryptography.
+<p align="center">
+  Software engineering student in Egypt building public, inspectable work across backend systems, security tooling, localization, and applied cryptography.
+</p>
 
-This is an evidence-first profile: what I built, what it proves, what is still in progress, and where I am heading next.
+<p align="center">
+  <a href="https://rlxchap2.github.io/portfolio/">Portfolio</a>
+  |
+  <a href="https://www.linkedin.com/in/mohammed-mahmouds">LinkedIn</a>
+  |
+  <a href="mailto:rlxchap2@outlook.com">Email</a>
+  |
+  <a href="https://x.com/0xR1A7">X</a>
+  |
+  <a href="https://crowdin.com/profile/rlxchap2">Crowdin</a>
+  |
+  <a href="https://github.com/sponsors/RlxChap2">Sponsor</a>
+</p>
 
-[Portfolio](https://rlxchap2.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/mohammed-mahmouds) | [Email](mailto:rlxchap2@outlook.com) | [X](https://x.com/0xR1A7) | [Crowdin](https://crowdin.com/profile/rlxchap2)
+I like work that can be opened, reviewed, and improved. My GitHub is built around runnable projects, documented tradeoffs, small upstream contributions, and Arabic localization work that helps more developers use the tools I depend on.
 
----
+## Current Proof
 
-### Snapshot
-
-| Area | Details |
+| Signal | Evidence |
 | --- | --- |
-| Current identity | Software engineering student focused on backend systems, security tooling, and applied cryptography |
-| Main stack | Node.js, TypeScript, JavaScript, C, C++, Python |
-| What I like building | APIs, CLI tools, diagnostics apps, browser-based security utilities, cryptography experiments |
-| Open source direction | Tests, documentation, small fixes, issue discussions, and Node.js ecosystem learning |
-| Current long-form work | Writing an Arabic technical book / challenge system around cryptography, reverse engineering, and digital forensics |
-| Location | Egypt |
+| Upstream contributions | Merged documentation work in [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw/pull/5522) and [discord/discord-api-docs](https://github.com/discord/discord-api-docs/pull/8408) |
+| Active open-source PRs | [Express.js](https://github.com/expressjs/express/pull/7050), [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme/pull/3469), and [webpack Arabic docs](https://github.com/webpack/webpack.js.org/pull/8252) |
+| Organization work | Co-building [BonyanOSS](https://github.com/BonyanOSS), with public API, SDK, docs, and community infrastructure |
+| Localization | Arabic translation work through [Crowdin](https://crowdin.com/profile/rlxchap2), including Node.js Website localization activity |
+| Availability | Open to backend, platform, developer tooling, security tooling, localization, and open-source collaboration |
 
----
+## Featured Work
 
-### What I am focused on
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [MASC-256](https://github.com/RlxChap2/MASC-256) | Experimental stream-cipher design, C implementation, and responsible crypto documentation. Study project, not production cryptography. | C, CMake |
+| [Bonyan API](https://github.com/BonyanOSS/Bonyan-API) | Fastify API for Quran, azkar, hadith, prayer, reciters, qibla, and fallback data flows. | TypeScript, Node.js, Fastify |
+| [bonyan-sdk-js](https://github.com/BonyanOSS/bonyan-sdk-js) | Official JavaScript and TypeScript SDK for Bonyan API. | TypeScript, Node.js, pnpm |
+| [api.discord.com](https://github.com/RlxChap2/api.discord.com) | Client-side Discord API exploration and request mapping. | JavaScript |
+| [contribscope](https://github.com/RlxChap2/contribscope) | Contributor image generation for repos, orgs, and repo groups. | HTML, GitHub APIs |
+| [IPInspectorZ](https://github.com/RlxChap2/IPInspectorZ) | Desktop network and device diagnostics with a privacy-first direction. | TypeScript, Tauri, Rust |
 
-| Focus | What it means in my work |
+More detail: [projects](PROJECTS.md), [open-source contributions](CONTRIBUTIONS.md), [credentials](CERTIFICATIONS.md), and [sponsorship](SPONSORS.md).
+
+## Open Source And Localization
+
+I contribute in the places where I am already learning or building:
+
+| Area | Examples |
 | --- | --- |
-| Backend systems | APIs, service structure, validation, documentation, testing, and maintainable project layouts |
-| Security tooling | Defensive utilities, diagnostics, privacy-first browser tools, and malware-analysis workflows |
-| Applied cryptography | Educational implementations, experimental cipher design, bit operations, state machines, and clear safety notes |
-| Open source | Contributing through small, reviewable changes before claiming bigger ecosystem roles |
+| Runtime and web ecosystem | Express.js tests, webpack documentation, Node.js Website localization |
+| Developer tools | Material Icon Theme, contributor tooling, GitHub Actions workflows |
+| Platform documentation | NVIDIA NemoClaw docs, Discord API docs |
+| Arabic localization | Crowdin translation, documentation translation, locale files |
+| Community infrastructure | BonyanOSS, Sw7lProjects, ctlib, and Discord-focused tooling |
 
----
-
-### Selected work
-
-| Project | Why it matters | Stack |
-| --- | --- | --- |
-| [MASC-256](https://github.com/RlxChap2/MASC-256) | Experimental stream-cipher design in C. Built to study state evolution, memory-dependent transformations, rotations, XOR operations, and responsible crypto documentation. Not intended for production cryptography. | C, CMake |
-| [Bonyan API](https://github.com/BonyanOSS/Bonyan-API) | A structured Fastify API with tests, OpenAPI docs, Docker support, changelog, roadmap, contributing docs, security policy, and source fallback handling. | TypeScript, Node.js, Fastify |
-| [IPInspectorZ](https://github.com/RlxChap2/IPInspectorZ) | Desktop network and device diagnostics app designed around no login, no telemetry, and no file scanning. | TypeScript, Tauri, Rust |
-| [CyberTools](https://github.com/ctlib/CyberTools) | Client-side cybersecurity utilities with privacy notes, roadmap, security policy, and no backend data collection. | JavaScript, HTML, CSS |
-| [Quiz Master](https://github.com/RlxChap2/quiz-master) | Educational platform for organizing quizzes, video lectures, and learning materials. | TypeScript, Node.js, Tailwind CSS |
-| [cf-practice-archive](https://github.com/RlxChap2/cf-practice-archive) | Personal archive for algorithm practice and problem-solving consistency. | C++ |
-
----
-
-### Open source activity
-
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [Express.js](https://github.com/expressjs/express/pull/7050) | Improving test coverage for `res.set()` edge cases | Pull request open |
-| [webpack.js.org](https://github.com/webpack/webpack.js.org/pull/8252) | Arabic documentation contribution | Pull request open |
-| [Node.js Translator](https://crowdin.com/project/nodejs-web/activity-stream) | Arabic locales Contribution | Ongoing |
-
----
-
-### Writing and research
-
-| Work | Status | Scope |
-| --- | --- | --- |
-| Arabic technical book / challenge system | In progress | Cryptography, reverse engineering, digital forensics, binary analysis, steganography, and puzzle-based problem solving |
-| Project documentation | Ongoing | READMEs, roadmaps, security notes, contribution guides, and architecture notes |
-| Future writeups | Planned | Backend architecture, API design, security tooling, and lessons from building public projects |
-
----
-
-### Technical stack
+## Toolbox
 
 | Category | Tools |
 | --- | --- |
-| Backend | Node.js, Express, Fastify, REST APIs |
-| Frontend | React, Vite, Tailwind CSS |
-| Systems | C, C++, Linux, shell basics |
-| Security | Cryptography fundamentals, reverse engineering basics, diagnostics, malware-analysis workflows |
-| Data | PostgreSQL, MySQL, MongoDB |
-| Tooling | Git, GitHub Actions, Docker, OpenAPI, CMake |
+| Backend | Node.js, TypeScript, JavaScript, Express, Fastify, REST APIs |
+| Systems | C, C++, C#, Linux, shell scripting, CMake |
+| Security | Cryptography fundamentals, diagnostics, hash/encoding tools, reverse-engineering basics |
+| Frontend | React, Vite, Tailwind CSS, HTML, CSS |
+| Data | PostgreSQL, MySQL, MongoDB, SQLite |
+| Delivery | Git, GitHub Actions, Docker, OpenAPI, pnpm, npm |
 
----
-
-### Credentials
+## Credentials I Lead With
 
 | Credential | Issuer |
 | --- | --- |
-| [Node.js Intermediate](https://www.hackerrank.com/certificates/3b87e1c97a60) | HackerRank |
 | [Software Engineer Certificate](https://www.hackerrank.com/certificates/0180157c6b8f) | HackerRank |
+| [Node.js Intermediate](https://www.hackerrank.com/certificates/3b87e1c97a60) | HackerRank |
+| [JavaScript Intermediate](https://www.hackerrank.com/certificates/e7327d1580b2) | HackerRank |
+| [SQL Advanced](https://www.hackerrank.com/certificates/6705b20dd48c) | HackerRank |
+| [C# Certificate](https://learn.microsoft.com/api/credentials/share/en-us/MohammedMahmoud-7840/82E7E3ACA652BA1?sharingId=3CDE825C12D79E30) | Microsoft |
 | [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/DEW6WX2LCPJU) | Google / Coursera |
-| [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/6HJXWH5OFMT6) | Google / Coursera |
-| [Cybersecurity Case Studies and Capstone Project](https://www.coursera.org/account/accomplishments/verify/MKZQILBCV12C) | IBM / Coursera |
-| [Python Programming Fundamentals](https://www.coursera.org/account/accomplishments/verify/GS0PYZ9B8Y4U) | Microsoft / Coursera |
+| [All my Credentials here](./CERTIFICATIONS.md) | Google, Microsoft, etc. |
 
----
+## How To Contact With Me?
 
-### How I want this profile to age
-
-| Goal | What should replace words over time |
-| --- | --- |
-| Stronger open-source presence | Merged PRs, useful reviews, issue discussions, and project participation |
-| Better engineering proof | Tests, CI, releases, docs, architecture notes, and runnable demos |
-| Better security credibility | Clear threat models, responsible wording, defensive tools, and documented limitations |
-| Better technical writing | Public notes explaining what I built, what failed, and what I learned |
-
----
-
-### Say hi
-
-| Channel | Link |
-| --- | --- |
-| Email | [rlxchap2@outlook.com](mailto:rlxchap2@outlook.com) |
-| LinkedIn | [mohammed-mahmouds](https://www.linkedin.com/in/mohammed-mahmouds) |
-| Portfolio | [rlxchap2.github.io/portfolio](https://rlxchap2.github.io/portfolio/) |
-| GitHub | [RlxChap2](https://github.com/RlxChap2) |
-| Crowdin | [RlxChap2](https://crowdin.com/profile/rlxchap2) |
+If you want to talk about backend systems, open source, Arabic localization, Discord tooling, security utilities, or sponsorship, the fastest path is [email](mailto:rlxchap2@outlook.com) or [LinkedIn](https://www.linkedin.com/in/mohammed-mahmouds).
