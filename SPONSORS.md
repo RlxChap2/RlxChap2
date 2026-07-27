@@ -1,28 +1,38 @@
 # Sponsorship
 
-I am building public software and documentation around backend systems, Arabic localization, security utilities, Discord tooling, and open-source education.
+Sponsorship buys time for public maintenance. It does not buy control of the roadmap, access to private data, a favorable security decision, or an endorsement.
 
-## What Sponsorship Supports
+## What Support Funds
 
-| Workstream | What support helps with |
+| Work | Practical use of funds |
 | --- | --- |
-| BonyanOSS | API maintenance, SDK releases, docs, uptime/status work, and community support |
-| Arabic localization | More translation and review time for developer documentation and open-source tools |
-| Security utilities | Browser-based tools, diagnostics, documentation, and safety notes |
-| Developer tooling | Contribution visualizers, GitHub automation, templates, and workflow cleanup |
-| Learning in public | Better writeups, reproducible examples, and maintained project pages |
+| Release engineering | Signing, build infrastructure, release artifacts, and reproducible verification |
+| BonyanOSS | API and SDK maintenance, documentation, uptime work, and community support |
+| Arabic localization | Translation and review time for developer documentation and open-source tools |
+| Security-minded utilities | Testing, privacy documentation, defensive tooling, and responsible disclosure work |
+| Developer tooling | Hosted services, GitHub automation, examples, and maintenance of public templates |
 
-## Sponsor Links
+## Public Accountability
 
-| Channel | Link |
-| --- | --- |
-| GitHub Sponsors | [github.com/sponsors/RlxChap2](https://github.com/sponsors/RlxChap2) |
-| Patreon | [patreon.com/HrS741](https://www.patreon.com/HrS741) |
-| PayPal | [paypal.me/MMahmoud345](https://paypal.me/MMahmoud345) |
-| Email | [rlxchap2@outlook.com](mailto:rlxchap2@outlook.com) |
+Sponsored work should remain inspectable. Progress appears in repositories, pull requests, releases, changelogs, or documentation. If support is intended for a specific deliverable, its scope and acceptance criteria should be agreed in writing before work starts.
 
-## Good Sponsorship Fit
+No sponsorship tier creates a hidden SLA. Commercial support, consulting, or time-sensitive delivery needs a separate agreement.
 
-Sponsorship makes sense if you care about Arabic developer access, open-source Islamic software infrastructure, Discord tooling, backend/API projects, or small public security utilities.
+## Support Channels
 
-I care more about steady support than loud promises. Sponsors should be able to see the work directly through repositories, pull requests, documentation, and release notes.
+| Channel | Link | Best for |
+| --- | --- | --- |
+| GitHub Sponsors | [Sponsor on GitHub](https://github.com/sponsors/RlxChap2) | Recurring support tied to open-source work |
+| Patreon | [patreon.com/HrS741](https://www.patreon.com/HrS741) | Recurring community support |
+| PayPal | [paypal.me/MMahmoud345](https://paypal.me/MMahmoud345) | One-time support |
+| Email | [rlxchap2@outlook.com](mailto:rlxchap2@outlook.com) | Project-specific or organizational discussions |
+
+## Good Fit
+
+Support is most useful when you care about Arabic developer access, open Islamic software infrastructure, backend and desktop tooling, or small public security utilities. Start by reviewing the [project index](PROJECTS.md) and [open-source ledger](CONTRIBUTIONS.md); the work should make the case before this page does.
+
+---
+
+[Back to profile](README.md) · [Project index](PROJECTS.md) · [Open-source contributions](CONTRIBUTIONS.md)
+
+<sub>Last reviewed 28 July 2026.</sub>

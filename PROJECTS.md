@@ -1,42 +1,61 @@
-# Projects
+# Project Index
 
-This page keeps giving a clearer map of the work.
+This is a curated map of public work, not a mirror of the repositories tab. Released software and maintained systems come first. Focused tools and learning archives remain available without competing for the same attention.
 
-## Main Projects
+**Status key:** `active` is under current development · `maintained` receives fixes and dependency work · `stable` is complete for its present scope · `research` is experimental · `archive` is retained as a learning record.
 
-| Project | Role | Why it matters | Stack |
+## Released and Maintained
+
+| Project | Role | What to review | Stack | Status |
+| --- | --- | --- | --- | --- |
+| [rsdownit](https://github.com/RlxChap2/rsdownit) | Author and maintainer | Native provider chain, signed updates, release checksums and attestations, URL policy, unit and smoke tests | Rust, Tauri 2, React, TypeScript | `active` |
+| [Bonyan API](https://github.com/BonyanOSS/Bonyan-API) | Maintainer | Multi-provider fallback, normalized responses, timeouts, caching, probes, OpenAPI, and tests | TypeScript, Fastify, Vitest, Docker | `maintained` |
+| [@bonyanoss/bonyan-api](https://github.com/BonyanOSS/bonyan-sdk-js) | Maintainer | Typed resource clients, validation, retry/backoff, error taxonomy, published npm package | TypeScript, tsup, Vitest | `maintained` |
+| [IPInspectorZ](https://github.com/RlxChap2/IPInspectorZ) | Author | Cross-platform diagnostic UI, network and device inspection, privacy documentation, packaged v1.0.0 release | TypeScript, Tauri, Rust | `stable` |
+
+## Research and Developer Tools
+
+| Project | Role | What to review | Stack | Status |
+| --- | --- | --- | --- | --- |
+| [MASC-256](https://github.com/RlxChap2/MASC-256) | Author | Authenticated-encryption API, key separation, tamper rejection, deterministic vectors, explicit validation roadmap | C, CMake | `research` |
+| [ContribScope](https://github.com/RlxChap2/contribscope) | Author | Multi-repo contributor deduplication, SVG rendering, query validation, token and cache policy | TypeScript, Hono, Cloudflare Workers | `stable` |
+| [CyberTools](https://github.com/ctlib/CyberTools) | Maintainer and contributor | 39 client-side security utilities, offline PWA, CSP and release audit checks, no-backend privacy model | JavaScript, HTML, CSS | `maintained` |
+| [api.discord.com](https://github.com/RlxChap2/api.discord.com) | Author | Automated Discord client-module collection and Webpack research archive | JavaScript, GitHub Actions | `research` |
+
+`api.discord.com` studies internal client behavior. It is educational work, not a supported Discord integration, and its utilities may conflict with Discord’s terms. It is intentionally kept out of the profile showcase.
+
+## Focused Utilities
+
+| Project | Scope | Stack | Status |
 | --- | --- | --- | --- |
-| [MASC-256](https://github.com/RlxChap2/MASC-256) | Author | Experimental stream-cipher study in C. Useful as proof of systems curiosity, bit operations, state transitions, and responsible documentation. | C, CMake |
-| [Bonyan API](https://github.com/BonyanOSS/Bonyan-API) | Founder / maintainer | Public API for Quran, azkar, hadith, prayer, qibla, reciters, tafsir, and fallback data workflows. | TypeScript, Node.js, Fastify |
-| [bonyan-sdk-js](https://github.com/BonyanOSS/bonyan-sdk-js) | Maintainer | Official JS/TS SDK for Bonyan API, with client helpers and release workflow work. | TypeScript, pnpm |
-| [api.discord.com](https://github.com/RlxChap2/api.discord.com) | Author | Client-side Discord API exploration and request mapping from the web app runtime. | JavaScript |
-| [contribscope](https://github.com/RlxChap2/contribscope) | Author | Generates deduplicated contributor images for repos, orgs, users, and repo groups. | HTML, JavaScript, GitHub APIs |
-| [IPInspectorZ](https://github.com/RlxChap2/IPInspectorZ) | Author | Desktop diagnostics app focused on lightweight network and device inspection. | TypeScript, Tauri, Rust |
+| [pdf-viewer](https://github.com/RlxChap2/pdf-viewer) | Inline PDF previews for Discord attachments | TypeScript, TSX | `stable` |
+| [discord-js-structure-v14](https://github.com/RlxChap2/discord-js-structure-v14) | Handler-based Discord.js project structure | JavaScript, Node.js | `maintained` |
+| [Clanker 2.0](https://github.com/RlxChap2/Clanker-2.0) | Discord bot launcher, diagnostics terminal, and project explorer | JavaScript, Node.js | `stable` |
+| [Binary-Magic](https://github.com/RlxChap2/Binary-Magic) | Binary operations implemented across several languages | TypeScript, C, C++, C#, Python | `archive` |
+| [0xExtracter](https://github.com/RlxChap2/0xExtracter) | Hardware telemetry dashboard experiment | C++ | `research` |
 
-## Security And Tooling
+## Practice and Learning Archives
 
-| Project | Scope | Notes |
-| --- | --- | --- |
-| [CyberTools](https://github.com/ctlib/CyberTools) | Browser-based cybersecurity utilities | Hashing, encoding, decoding, steganography, and small defensive utilities. |
-| [0xExtracter](https://github.com/RlxChap2/0xExtracter) | Hardware telemetry dashboard | Real-time hardware metrics and extraction experiments. |
-| [Binary-Magic](https://github.com/RlxChap2/Binary-Magic) | Binary instruction experiments | Cross-language binary concepts across Python, JavaScript, TypeScript, C#, C++, and C. |
-| [cf-practice-archive](https://github.com/RlxChap2/cf-practice-archive) | Problem solving archive | Codeforces practice and algorithm consistency. |
+| Project | Purpose | Stack | Status |
+| --- | --- | --- | --- |
+| [cf-practice-archive](https://github.com/RlxChap2/cf-practice-archive) | Codeforces problem-solving record | C++ | `active` |
+| [quiz-master](https://github.com/RlxChap2/quiz-master) | College quiz application | TypeScript | `archive` |
+| [VirtualAssistant](https://github.com/RlxChap2/VirtualAssistant) | Voice-driven desktop assistant | C# | `archive` |
+| [MorseMineLang](https://github.com/RlxChap2/MorseMineLang) | Small Morse-based language and compiler experiment | C++ | `archive` |
+| [cEncryption](https://github.com/RlxChap2/cEncryption) | RC4 and Base64 exercises in C | C | `archive` |
+| [cpp-tutorial](https://github.com/RlxChap2/cpp-tutorial) | Early C++ examples and encoding exercises | C++ | `archive` |
 
-## Community And Discord Work
+Forks, empty scaffolds, classroom exercises, and incomplete early experiments are intentionally omitted. They remain available through the repositories tab, but they are not presented as current portfolio work.
 
-| Project | Scope | Notes |
-| --- | --- | --- |
-| [Sw7lProjects/Tweet](https://github.com/Sw7lProjects/Tasks) | Tweet Bot | A Tweet Bot For Discord Community |
-| [Sw7lProjects/Tasks](https://github.com/Sw7lProjects/Tasks) | Staff task bot | Long-running Discord staff management and automation work. |
-| [discord-js-structure-v14](https://github.com/RlxChap2/discord-js-structure-v14) | Discord.js structure | Handler system and project template for Discord.js v14. |
-| [pdf-viewer](https://github.com/RlxChap2/pdf-viewer) | Discord attachment utility | Inline PDF previews for Discord attachments. |
+## Review Paths
 
-## What I Want Reviewers To Notice
+- **Backend and API design:** [Bonyan API](https://github.com/BonyanOSS/Bonyan-API) → [JavaScript SDK](https://github.com/BonyanOSS/bonyan-sdk-js)
+- **Desktop and release engineering:** [rsdownit](https://github.com/RlxChap2/rsdownit) → [IPInspectorZ](https://github.com/RlxChap2/IPInspectorZ)
+- **Systems and security reasoning:** [MASC-256](https://github.com/RlxChap2/MASC-256) → [CyberTools](https://github.com/ctlib/CyberTools)
+- **Developer tooling:** [ContribScope](https://github.com/RlxChap2/contribscope) → [discord-js-structure-v14](https://github.com/RlxChap2/discord-js-structure-v14)
 
-| Signal | Where to look |
-| --- | --- |
-| Backend structure | Bonyan API, bonyan-sdk-js |
-| Systems curiosity | MASC-256, Binary-Magic, C/C++ practice |
-| Open-source discipline | Pull requests in upstream repositories and organization repos |
-| Documentation effort | BonyanOSS docs, webpack Arabic docs, README and roadmap work |
-| Community responsibility | Sw7lProjects and Discord tooling |
+---
+
+[Back to profile](README.md) · [Open-source contributions](CONTRIBUTIONS.md) · [Credentials](CERTIFICATIONS.md)
+
+<sub>Last reviewed 28 July 2026.</sub>

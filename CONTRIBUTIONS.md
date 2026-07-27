@@ -1,48 +1,61 @@
 # Open-Source Contributions
 
-This page lists public contribution proof.
+This ledger separates public upstream work from maintenance inside organizations I help run. Counts use public GitHub search results so a reviewer can reproduce them without access to private repositories.
 
-## Snapshot
+## Public Snapshot
 
-As of June 18, 2026, GitHub search found 100+ authored pull requests by `@RlxChap2` (me), including 90+ merged PRs and several active upstream PRs.
+| Signal | Count | Evidence |
+| --- | ---: | --- |
+| Authored pull requests | 48 | [GitHub search](https://github.com/search?q=author%3ARlxChap2+is%3Apr&type=pullrequests) |
+| Merged pull requests | 37 | [GitHub search](https://github.com/search?q=author%3ARlxChap2+is%3Apr+is%3Amerged&type=pullrequests) |
+| Open pull requests | 3 | [GitHub search](https://github.com/search?q=author%3ARlxChap2+is%3Apr+is%3Aopen&type=pullrequests) |
+
+Snapshot taken 28 July 2026. GitHub activity changes; the linked searches are the source of truth.
 
 ## Upstream Highlights
 
-| Project | Pull request | Status | Contribution |
+| Project | Pull request | State | Change |
 | --- | --- | --- | --- |
-| NVIDIA NemoClaw | [#5522](https://github.com/NVIDIA/NemoClaw/pull/5522) | Merged | Documentation update for user agent skills. |
-| Discord API Docs | [#8408](https://github.com/discord/discord-api-docs/pull/8408) | Merged | Clarified privileged intent wording in the Identify example. |
-| Express.js | [#7050](https://github.com/expressjs/express/pull/7050) | Open | Improves test coverage for `res.set()` edge cases. |
-| Material Icon Theme | [#3469](https://github.com/material-extensions/vscode-material-icon-theme/pull/3469) | Open | Adds Codex icons to a major VS Code icon theme. |
-| webpack.js.org | [#8252](https://github.com/webpack/webpack.js.org/pull/8252) | Open | Arabic documentation translation work. |
-| In All Programming Languages | [#5](https://github.com/In-All-Programming-Languages/infinite-loop-in-all-programming-languages/pull/5) | Merged | Added an Assembly infinite loop example. |
+| NVIDIA NemoClaw | [#5522](https://github.com/NVIDIA/NemoClaw/pull/5522) | Merged | Listed NemoClaw user-agent skills in the documentation. |
+| Discord API Docs | [#8408](https://github.com/discord/discord-api-docs/pull/8408) | Merged | Clarified privileged-intent wording in the Identify example. |
+| Express.js | [#7050](https://github.com/expressjs/express/pull/7050) | Open | Adds coverage for `res.set()` edge cases. |
+| Material Icon Theme | [#3469](https://github.com/material-extensions/vscode-material-icon-theme/pull/3469) | Open | Adds a Codex folder icon and association. |
+| webpack.js.org | [#8252](https://github.com/webpack/webpack.js.org/pull/8252) | Open | Adds Arabic translations for documentation pages. |
 
-## BonyanOSS
+An open PR is work under review, not a merged contribution. It stays labeled that way until the maintainers decide.
 
-| Repository | Examples |
+## Maintainer Work
+
+### BonyanOSS
+
+| Repository | Representative work |
 | --- | --- |
-| [Bonyan-API](https://github.com/BonyanOSS/Bonyan-API) | Routes, data fallback work, dependency updates, documentation, README polish |
-| [bonyan-sdk-js](https://github.com/BonyanOSS/bonyan-sdk-js) | Client helpers, resource work, dependency updates, release workflow improvements |
-| [docs](https://github.com/BonyanOSS/docs) | Rebrand and documentation expansion |
-| [website](https://github.com/BonyanOSS/website) | Adopters page and home page improvements |
-| [bonyan-discord-bot](https://github.com/BonyanOSS/bonyan-discord-bot) | Reciters command work |
+| [Bonyan-API](https://github.com/BonyanOSS/Bonyan-API) | Routes, provider fallback, tests, dependency updates, documentation, and repository policy |
+| [bonyan-sdk-js](https://github.com/BonyanOSS/bonyan-sdk-js) | Resource clients, validation, retries, error handling, releases, and workflow maintenance |
+| [docs](https://github.com/BonyanOSS/docs) | Product rebrand and documentation expansion |
+
+### ctlib
+
+| Repository | Representative work |
+| --- | --- |
+| [CyberTools](https://github.com/ctlib/CyberTools) | Browser-based security tools, privacy and security documentation, offline support, and release audit checks |
 
 ## Localization
 
 | Area | Evidence |
 | --- | --- |
-| Node.js Website | [Crowdin profile](https://crowdin.com/profile/rlxchap2) and Node.js Website Arabic localization activity |
-| webpack Arabic docs | [webpack/webpack.js.org#8252](https://github.com/webpack/webpack.js.org/pull/8252) |
-| Velvra locale | [Velvra/locale#5](https://github.com/Velvra/locale/pull/5), [Velvra/locale#4](https://github.com/Velvra/locale/pull/4) |
+| Node.js Website | [Crowdin profile](https://crowdin.com/profile/rlxchap2) |
+| webpack documentation | [webpack/webpack.js.org#8252](https://github.com/webpack/webpack.js.org/pull/8252) |
+| Velvra Arabic locale | [Velvra/locale#4](https://github.com/Velvra/locale/pull/4) and [Velvra/locale#5](https://github.com/Velvra/locale/pull/5) |
 
-## Community And Organization Work
+## Contribution Method
 
-| Organization | Public signal |
-| --- | --- |
-| [BonyanOSS](https://github.com/BonyanOSS) | Public API, SDK, docs, discussions, and profile repository |
-| [Sw7lProjects](https://github.com/Sw7lProjects) | Discord staff tools, bot infrastructure, and tweet/media automation |
-| [ctlib](https://github.com/ctlib) | CyberTools and cybersecurity learning utilities |
+I usually enter a project through a bounded change: a failing edge case, a documentation ambiguity, a translation gap, or a small missing feature. The useful unit is a diff a maintainer can understand and review without adopting my whole worldview.
 
-## How I Try To Contribute
+That means keeping the claim narrow, running the project’s own checks, and leaving enough context in the PR for someone else to continue the work.
 
-I prefer small, reviewable changes: tests, documentation, translation, examples, issue cleanup, and focused implementation work. That gives maintainers something easier to review and gives me a clear path to learn the project before attempting larger changes.
+---
+
+[Back to profile](README.md) · [Project index](PROJECTS.md)
+
+<sub>Last reviewed 28 July 2026.</sub>
