@@ -1,10 +1,24 @@
-# Mohammed Mahmoud
+<h1 align="center">Mohammed Mahmoud</h1>
 
-Software Engineering Student | Backend, Desktop, and Open Source
+<p align="center"><strong>Software Engineering Student · Backend, Desktop, and Open-Source Systems</strong></p>
 
-Faculty of Computers and Information, Assiut University | Assiut, Egypt
+<p align="center">
+  Faculty of Computers and Information, Assiut University · Assiut, Egypt
+</p>
 
-[Portfolio](https://rlxchap2.github.io/portfolio/) | [Projects](PROJECTS.md) | [Open source](CONTRIBUTIONS.md) | [Credentials](CERTIFICATIONS.md) | [LinkedIn](https://www.linkedin.com/in/mohammed-mahmouds) | [Email](mailto:rlxchap2@outlook.com)
+<p align="center">
+  <a href="https://rlxchap2.github.io/portfolio/">Portfolio</a>
+  ·
+  <a href="PROJECTS.md">Projects</a>
+  ·
+  <a href="CONTRIBUTIONS.md">Open Source</a>
+  ·
+  <a href="CERTIFICATIONS.md">Credentials</a>
+  ·
+  <a href="https://www.linkedin.com/in/mohammed-mahmouds">LinkedIn</a>
+  ·
+  <a href="mailto:rlxchap2@outlook.com">Email</a>
+</p>
 
 I build TypeScript services, Rust desktop apps, and developer tools. I care about clear failure paths, tests in CI, reproducible releases, and documentation that states limits plainly.
 
