@@ -20,21 +20,29 @@
   <a href="mailto:rlxchap2@outlook.com">Email</a>
 </p>
 
-I build TypeScript services, Rust desktop apps, and developer tools. I care about clear failure paths, tests in CI, reproducible releases, and documentation that states limits plainly.
+I build TypeScript services, Rust desktop apps, and developer tools. I care about clear failure paths, tests in CI, release checksums and build provenance, and documentation that states limits plainly.
 
 ## Selected work
 
-### [MediaFilez Desktop](https://github.com/RlxChap2/mediafilez-desktop)
+### [MediaFilez Desktop](https://github.com/MediaFilez/mediafilez-desktop)
 
-Windows app for saving public video, images, galleries, and audio. It uses a local-first resolver chain, validates downloaded files, installs tools only after checksum verification, and ships signed updates.
+Windows app for saving public video, images, galleries, and audio. It uses a local-first resolver chain, validates downloaded files, verifies managed-tool checksums, and supports signed in-app updates. An unpublished 2.0 update targeting Android, macOS, and Linux is in development.
 
 `Rust` `Tauri 2` `React` `TypeScript` `Vitest` `Playwright`
 
-[Releases](https://github.com/RlxChap2/mediafilez-desktop/releases) | [CI](https://github.com/RlxChap2/mediafilez-desktop/actions/workflows/build.yml) | [Security](https://github.com/RlxChap2/mediafilez-desktop#privacy-and-security)
+[Releases](https://github.com/MediaFilez/mediafilez-desktop/releases) | [CI](https://github.com/MediaFilez/mediafilez-desktop/actions/workflows/build.yml) | [Security](https://github.com/MediaFilez/mediafilez-desktop#privacy-and-security)
+
+### [MediaFilez](https://github.com/RlxChap2/MediaFilez) and [Media Worker](https://github.com/MediaFilez/media-worker)
+
+Discord bot with a download queue, ordered engine fallback, media validation, upload-size fitting, and streamed attachments. The separate worker is an early extraction of the media core, with BullMQ jobs, cancellation, batch ZIPs, and local or Cloudflare R2 storage.
+
+`JavaScript` `TypeScript` `Node.js` `Discord.js` `FFmpeg` `BullMQ` `Cloudflare R2`
+
+[Bot releases](https://github.com/RlxChap2/MediaFilez/releases) | [Bot CI](https://github.com/RlxChap2/MediaFilez/actions/workflows/ci.yml) | [Worker design](https://github.com/MediaFilez/media-worker#current-execution-path)
 
 ### [Bonyan API](https://github.com/BonyanOSS/Bonyan-API) and [JavaScript SDK](https://github.com/BonyanOSS/bonyan-sdk-js)
 
-Maintained Islamic-content API with provider fallback, normalized responses, timeouts, health probes, tests, and an OpenAPI contract. Its typed SDK adds validation, retries, and a stable error model.
+Maintained API for Quran, hadith, prayer times, and related Islamic content, with provider fallback, normalized responses, timeouts, health probes, tests, and an OpenAPI contract. Its typed SDK adds input validation, retries, and typed errors.
 
 `TypeScript` `Node.js` `Fastify` `OpenAPI` `Docker` `Vitest`
 
@@ -60,16 +68,17 @@ More work: [PROJECTS.md](PROJECTS.md)
 
 ## Open source
 
-- Merged documentation fixes in [NVIDIA/NemoClaw#5522](https://github.com/NVIDIA/NemoClaw/pull/5522) and [discord/discord-api-docs#8408](https://github.com/discord/discord-api-docs/pull/8408).
-- Current work includes tests for [Solana Kora#648](https://github.com/solana-foundation/kora/pull/648) and [Express#7050](https://github.com/expressjs/express/pull/7050), plus Arabic documentation in [webpack.js.org#8252](https://github.com/webpack/webpack.js.org/pull/8252) and [Crowdin](https://crowdin.com/profile/rlxchap2).
+- Merged property tests for address lookup table fee-payer policies in [Solana Kora#648](https://github.com/solana-foundation/kora/pull/648), and a correction to the Identify example in [Discord API Docs#8408](https://github.com/discord/discord-api-docs/pull/8408).
+- Open pull requests cover timezone handling for JSON dates in [Microsoft Power Fx#3088](https://github.com/microsoft/Power-Fx/pull/3088), `res.set()` edge-case tests in [Express#7050](https://github.com/expressjs/express/pull/7050), and Arabic documentation in [webpack.js.org#8252](https://github.com/webpack/webpack.js.org/pull/8252).
+- Rebuilt Bonyan's English and Arabic documentation with generated OpenAPI references ([#4](https://github.com/BonyanOSS/docs/pull/4)). [Crowdin profile](https://crowdin.com/profile/rlxchap2).
 
-[Full contribution record](CONTRIBUTIONS.md)
+[Contribution snapshot](CONTRIBUTIONS.md) | [Current public pull requests](https://github.com/search?q=author%3ARlxChap2+is%3Apr+is%3Apublic&type=pullrequests)
 
 ## Working set
 
-- **Backend:** TypeScript, Node.js, Fastify, OpenAPI, PostgreSQL, Docker
+- **Backend:** TypeScript, JavaScript, Node.js, Fastify, OpenAPI, PostgreSQL, Docker
 - **Desktop and systems:** Rust, Tauri, C, CMake
-- **Quality and delivery:** Vitest, Playwright, GitHub Actions, release signing, checksums
+- **Quality and delivery:** Vitest, Playwright, GitHub Actions, updater signing, checksums
 - **Open source:** issue reproduction, focused pull requests, review, and Arabic localization
 
 ## Contact
@@ -78,4 +87,4 @@ Open to software engineering roles and focused open-source work in backend syste
 
 [rlxchap2@outlook.com](mailto:rlxchap2@outlook.com) | [LinkedIn](https://www.linkedin.com/in/mohammed-mahmouds) | [Learning guide](LEARNING.md) | [Sponsorship](SPONSORS.md)
 
-<sub>Reviewed 24 August 2026.</sub>
+<sub>Reviewed 30 September 2026.</sub>
